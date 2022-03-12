@@ -13,6 +13,6 @@
    * 의료 빅데이터를 이용한 개인 맞춤 의료 행위 추천 시스템 (2020.12 ~ 2021.06)
    * 회귀분석을 이용한 역주행 작품 특성 파악 (2020.10 ~ 2020.12)
 ## 논문
-* Cross-modal retrieval for BGM recommendation system: Tutorial and review, IEEE, Dowoon Jang, Jeonghoon Mo (2022) [개재 준비중]
+    * Cross-modal retrieval for BGM recommendation system: Tutorial and review, IEEE, Dowoon Jang, Jeonghoon Mo (2022) [개재 준비중]
 ## 특허
-* 영상과 정보를 이용한 배경음악 추천 시스템 [출원 준비중]
+    * 영상과 정보를 이용한 배경음악 추천 시스템 [출원 준비중]
