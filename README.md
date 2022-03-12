@@ -3,7 +3,7 @@
 ## 관심분야
    * Machine learning
    * Deep learning
-   * Metric learing
+   * Metric learning
    * Computer vision
    * Background music recommendation model
 ## 프로젝트
