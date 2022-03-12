@@ -1,5 +1,5 @@
 # Data scientist
-
+다양한 도메인의 데이터와 이에 적합한 기계학습 모델을 적용한 응용 시스템 개발에 관심이 있습니다.
 ## 관심분야
 * Machine learning
 * Deep learning
